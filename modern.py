@@ -1,6 +1,14 @@
 """ Wallet App using the Flet Library """
 
-""" THe modules we need for this app """
+""" Milestones/Roadmap:
+        1. Entry validation
+        2. Entry success banner
+        3. Add copy/paste function using pyperclip pip3 install pyperclip 
+        4. Attach local database (sqlite3)
+        
+"""
+
+""" The modules we need for this app """
 import flet
 from flet import (
     Page,
